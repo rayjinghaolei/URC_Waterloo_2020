@@ -1,0 +1,5 @@
+[31m[1mCMake Error[0m at /home/raylei/catkin_ws/src/joystick/CMakeLists.txt:143 (set_target_properties):
+  set_target_properties Can not find target to add properties to:
+  joystick_node
+
+

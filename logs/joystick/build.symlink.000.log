@@ -1,0 +1,4 @@
+Symlinking /home/raylei/catkin_ws/devel/lib/pkgconfig/joystick.pc
+Symlinking /home/raylei/catkin_ws/devel/lib/joystick/turtle_teleop_joy
+Symlinking /home/raylei/catkin_ws/devel/share/joystick/cmake/joystickConfig-version.cmake
+Symlinking /home/raylei/catkin_ws/devel/share/joystick/cmake/joystickConfig.cmake
